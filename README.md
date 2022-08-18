@@ -1,0 +1,2 @@
+# AndroidServicewithLiveEventBus
+Android的前台服务Demo，使用LiveEventBus实现前台服务和App之间跨进程通讯
